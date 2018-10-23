@@ -8,7 +8,7 @@ Vrije Universiteit Amsterdam
 Faculty of Exact Sciences
 Department of BioMolecular Analysis (BMA)
 
-lumaPlot.R      actual program (R)
+lumaPlot.R : actual program (R)
 
-rawdata.csv     example file of data
+rawdata.csv : example file of data
 
