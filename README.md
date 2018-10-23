@@ -2,7 +2,7 @@
 
 Author: Ben Bruyneel (2018)
 
-Program for semi-automatic data analysis for nanospotting results
+Program for semi-automatic data analysis of nanospotting results
 
 Vrije Universiteit Amsterdam
 Faculty of Exact Sciences
